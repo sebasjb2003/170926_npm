@@ -1,0 +1,25 @@
+{
+  "name": "170926_js_nodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebasjb2003/170926_npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sebasjb2003/170926_npm/issues"
+  },
+  "homepage": "https://github.com/sebasjb2003/170926_npm#readme",
+  "dependencies": {
+    "axios": "^1.20.0",
+    "moment": "^2.31.0"
+  }
+}
